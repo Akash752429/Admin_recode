@@ -3,7 +3,7 @@
     "description": "A custom WordPress plugin for educational purposes",
     "type": "project",
     "require": {
-        "guzzlehttp/guzzle": "2.0.0",
+        "guzzlehttp/guzzle": "^2.0",
         "symfony/symfony": "~5.4"
     },
     "license": "MIT",
